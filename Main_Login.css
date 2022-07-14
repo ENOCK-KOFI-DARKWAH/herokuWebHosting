@@ -1,0 +1,48 @@
+
+#navbar{
+    background-color: rgb(165, 170, 160);
+    height: 40px;
+    width: 100%;
+    font-style: italic;
+    color: chartreuse;
+    font-weight: bold;
+}
+#loginPage{
+    height: 400px;
+    width: 370px;
+    background-color: lightskyblue;    
+    border-radius: 10px;
+    margin: 30px;
+    position: relative;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: rgb(45, 157, 177);
+    box-shadow: 7px 7px gray;
+    font-size: 110%;
+    
+}
+
+form{
+    margin: 15%;
+
+}
+#socialHandles{
+    margin-top: 20%;
+    margin: 30%;
+    font-size: 200%;
+    align-items: center;
+    padding: 5%;
+}
+a{
+   text-decoration: none;
+   padding-right: 10%;
+   
+   border-radius: 30%;
+}
+a:visited{
+    color: blue;
+
+}
+input{
+    height: 20px;
+}
