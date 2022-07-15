@@ -20,6 +20,9 @@
     border-color: rgb(45, 157, 177);
     box-shadow: 7px 7px gray;
     font-size: 110%;
+    
+}
+#loginPage .wrap{
     margin: auto;
 }
 
