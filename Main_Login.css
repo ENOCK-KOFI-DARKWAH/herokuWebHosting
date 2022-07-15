@@ -8,6 +8,11 @@
     font-weight: bold;
     margin: auto;
 }
+
+#mainDiv .wrap{
+    width: 50%;
+    margin: auto;
+}
 #loginPage{
     height: 400px;
     width: 370px;
