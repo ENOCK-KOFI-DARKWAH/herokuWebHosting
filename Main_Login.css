@@ -13,7 +13,7 @@
     width: 370px;
     background-color: lightskyblue;    
     border-radius: 10px;
-    margin: 30px;
+    
     position: relative;
     margin-left: 21%;
     border-style: solid;
@@ -35,7 +35,7 @@ form{
     margin: auto;
     font-size: 200%;
     align-items: center;
-    padding: 5%;
+    
 }
 a{
    text-decoration: none;
