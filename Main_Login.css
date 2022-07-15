@@ -13,6 +13,10 @@
     width: 50%;
     margin: auto;
 }
+#mainDiv div, input,button{
+    display: inline;
+    float: none;
+}
 #loginPage{
     height: 400px;
     width: 370px;
